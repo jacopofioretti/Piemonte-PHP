@@ -1,2 +1,0 @@
-# Piemonte-PHP
-Esercizio PHP
